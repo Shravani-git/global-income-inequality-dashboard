@@ -28,7 +28,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-2.5 group">
-            <img src="/src/assets/logo.png" alt="Logo" className="w-8 h-8 rounded-lg  group-hover:scale-105 transition-transform" />
+            <img src="/public/logo.png" alt="Logo" className="w-8 h-8 rounded-lg  group-hover:scale-105 transition-transform" />
             <span className="font-display text-ink-900 text-[1.05rem] leading-tight hidden sm:block">
               Global Income<br/>
               <span className="text-purple-700 text-[0.7rem] font-body font-500 tracking-widest uppercase">Analysis</span>
