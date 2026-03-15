@@ -86,7 +86,7 @@ export default function About() {
 
         <div className="flex gap-3 flex-wrap">
           <a
-            href="https://github.com/Shravani-git"
+            href="https://github.com/Shravani-git/global-income-inequality-dashboard"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 bg-ink-900 hover:bg-ink-800 text-white px-5 py-2.5 rounded-xl text-sm font-medium transition-colors"
@@ -94,14 +94,7 @@ export default function About() {
             <Github size={15} /> View on GitHub
           </a>
 
-          <a
-            href="https://www.linkedin.com/in/shrawani-tati"
-            target="_blank"
-            rel="noreferrer"
-            className="inline-flex items-center gap-2 bg-white hover:bg-purple-50 text-ink-700 border border-slate-border px-5 py-2.5 rounded-xl text-sm font-medium transition-colors"
-          >
-            <Linkedin size={15} /> LinkedIn
-          </a>
+         
         </div>
       </div>
 
@@ -260,7 +253,7 @@ export default function About() {
         </p>
 
         <a
-          href="https://github.com/Shravani-git"
+          href="https://github.com/Shravani-git/global-income-inequality-dashboard"
           target="_blank"
           rel="noreferrer"
           className="inline-flex items-center gap-1.5 text-purple-700 text-sm font-medium hover:underline"
