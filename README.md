@@ -61,9 +61,7 @@ npm run preview
 
 The dashboard uses economic data from international organizations including:
 - World Bank
-- IMF (International Monetary Fund)
-- OECD datasets
-- National statistical agencies
+- Our World in Data
 
 ## 🎯 Key Metrics
 
@@ -81,13 +79,9 @@ This project is open source and welcomes contributions! Developers and data enth
 - Adapt the project for other analytics use cases
 - Improve data visualizations and user experience
 
-## 📝 License
-
-This project is open source and available under the MIT License.
-
 ## 🔗 Links
 
-- **Live Demo**: [View Dashboard](https://your-demo-url.com)
+- **Live Demo**: [View Dashboard](https://global-income-inequality-dashboard.onrender.com/)
 - **GitHub**: [https://github.com/Shravani-git/global-income-inequality-dashboard](https://github.com/Shravani-git/global-income-inequality-dashboard)
 - **LinkedIn**: [https://www.linkedin.com/in/shrawani-tati](https://www.linkedin.com/in/shrawani-tati)
 
